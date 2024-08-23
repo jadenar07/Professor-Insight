@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Sarah Johnson",
+      "subject": "Physics",
+      "stars": 4,
+      "review": "Engaging lectures and clear explanations. Assignments can be challenging."
+    },
+    {
+      "professor": "Prof. Michael Chen",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Brilliant instructor. Makes complex topics accessible and fun."
+    },
+    {
+      "professor": "Dr. Emily Rodriguez",
+      "subject": "Biology",
+      "stars": 3,
+      "review": "Knowledgeable but lectures can be dry. Office hours are helpful."
+    },
+    {
+      "professor": "Prof. David Kim",
+      "subject": "Mathematics",
+      "stars": 4,
+      "review": "Tough but fair. Exams are difficult but he prepares you well."
+    },
+    {
+      "professor": "Dr. Lisa Patel",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Amazing teacher! Lab sessions are well-organized and informative."
+    },
+    {
+      "professor": "Prof. James Wilson",
+      "subject": "History",
+      "stars": 2,
+      "review": "Monotonous lectures. Seems disinterested in student questions."
+    },
+    {
+      "professor": "Dr. Maria Gonzalez",
+      "subject": "Psychology",
+      "stars": 4,
+      "review": "Passionate about the subject. Encourages critical thinking."
+    },
+    {
+      "professor": "Prof. Robert Taylor",
+      "subject": "Economics",
+      "stars": 3,
+      "review": "Solid grasp of the material but can be intimidating in class."
+    },
+    {
+      "professor": "Dr. Jennifer Lee",
+      "subject": "English Literature",
+      "stars": 5,
+      "review": "Inspirational teacher. Fosters a love for reading and writing."
+    },
+    {
+      "professor": "Prof. Thomas Brown",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Thought-provoking discussions. Assignments are open-ended but interesting."
+    },
+    {
+      "professor": "Dr. Olivia Martinez",
+      "subject": "Sociology",
+      "stars": 3,
+      "review": "Interesting course content but grading can be inconsistent."
+    },
+    {
+      "professor": "Prof. Alexander Ivanov",
+      "subject": "Political Science",
+      "stars": 5,
+      "review": "Brilliant lecturer. Brings current events into discussions effectively."
+    },
+    {
+      "professor": "Dr. Rachel Green",
+      "subject": "Environmental Science",
+      "stars": 4,
+      "review": "Passionate about sustainability. Field trips are a highlight."
+    },
+    {
+      "professor": "Prof. Kevin Wong",
+      "subject": "Statistics",
+      "stars": 2,
+      "review": "Explains concepts poorly. Relies too heavily on textbook."
+    },
+    {
+      "professor": "Dr. Samantha Clark",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Engaging and knowledgeable. Makes art come alive in lectures."
+    },
+    {
+      "professor": "Prof. Daniel Muller",
+      "subject": "German Language",
+      "stars": 4,
+      "review": "Patient teacher. Creates a supportive environment for language learning."
+    },
+    {
+      "professor": "Dr. Aisha Patel",
+      "subject": "Neuroscience",
+      "stars": 3,
+      "review": "Brilliant researcher but sometimes struggles to simplify complex topics."
+    },
+    {
+      "professor": "Prof. Christopher Lee",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Real-world experience shines through. Great industry connections."
+    },
+    {
+      "professor": "Dr. Elizabeth Carter",
+      "subject": "Anthropology",
+      "stars": 4,
+      "review": "Fascinating lectures. Assignments encourage hands-on research."
+    },
+    {
+      "professor": "Prof. Nathan Harris",
+      "subject": "Music Theory",
+      "stars": 3,
+      "review": "Knowledgeable but strict. Expect a heavy workload."
+    }
+  ]
+}
